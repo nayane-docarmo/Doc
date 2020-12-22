@@ -1,4 +1,4 @@
-# GUFOS - Agenda de Eventos - BackEnd C# - .Net Core 3.0
+# BackEnd C# - .Net Core 3.0
 
 ## Requisitos
 > - Visual Studio Code <br>
